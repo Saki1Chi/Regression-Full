@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.db
+
+# Uploads
+backend/uploads/
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
+
+# Misc
+temp_line.txt
+*.log
